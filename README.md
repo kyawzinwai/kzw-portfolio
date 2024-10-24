@@ -2,7 +2,7 @@
 
 This is a Portfolio web application built using React JS and styled with Tailwind CSS. The project showcases my work, skills, and experiences in a modern and responsive design.
 
-I believe in the power of open-source and community collaboration, which is why I’m sharing this repository publicly and for free. Feel free to explore, use, modify, and share this project with others. Your feedback and contributions are welcome as we continue to learn and grow together in the development community.
+I believe in the power of open-source and community collaboration, which is why I’m sharing this repository publicly and for free. Feel free to explore, use, modify, and share this project with others. Sharing is caring.
 
 ## Features
 
