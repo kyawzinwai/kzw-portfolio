@@ -35,22 +35,22 @@ To get a local copy of the project up and running, follow these steps:
 # Commands
 
 ## Development
-To start the development server:
+- To start the development server:
     ```bash
     npm run dev
 
 ## Staging
-To build the application for staging:
+- To build the application for staging:
     ```bash
     npm run build:staging
 
 ## Production
-To build the application for staging:
+- To build the application for staging:
     ```bash
     npm run build
 
 ## Run Tests
-To run the test:
+- To run the test:
     ```bash
     npm test
 
